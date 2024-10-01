@@ -192,6 +192,34 @@ li {
 #sidebar .ads .wrapper p span {
 	font-weight: 700;
 }
+#search{
+	width: 97%;
+	border-radius: 3em;
+	padding-left: 10px;
+	font-size: 1em;
+	margin-top: 0.5em;
+}
+#search-actor{
+	width: 97%;
+	border-radius: 3em;
+	padding-left: 7px;
+	font-size: 1em;
+	margin-top: 0.5em;
+}
+#search-año{
+	width: 97%;
+	border-radius: 3em;
+	padding-left: 7px;
+	font-size: 1em;
+	margin-top: 0.5em;
+}
+#search-rank{
+	width: 97%;
+	border-radius: 3em;
+	padding-left: 7px;
+	font-size: 1em;
+	margin-top: 0.5em;
+}
 /* SIDEBAR */
 
 
@@ -387,7 +415,13 @@ main .card .head .icon {
 .card1{
 	display: none;
 }
-.filtro{
+.actor{
+	display: none;
+}
+.año{
+	display: none;
+}
+.rango{
 	display: none;
 }
 
